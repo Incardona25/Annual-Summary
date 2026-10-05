@@ -30,15 +30,3 @@ Follow these instructions to set up the project locally on your machine.
 ### Prerequisites
 * [Node.js](https://nodejs.org/) (v14 or higher recommended)
 * npm or yarn installed
-
-### 1. Backend Setup
-Navigate to the backend directory, install the dependencies, and start the server:
-```bash
-git clone [https://github.com/](https://github.com/)[Tuo-Username]/[nome-repo].git
-cd [nome-repo]/backend
-
-# Install dependencies
-npm install
-
-# Start the API server
-npm start
