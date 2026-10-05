@@ -9,18 +9,18 @@ A full-stack web application designed to track, manage, and visualize annual dat
 * **Decoupled Architecture**: Clear client-server separation allowing independent development and testing.
 
 ## 🛠️ Tech Stack
-* **Frontend**: React.js, [Inserisci libreria CSS, es. TailwindCSS / Bootstrap]
+* **Frontend**: React.js, [Bootstrap]
 * **Backend**: Node.js, Express.js
 * **Authentication**: Passport.js (JWT / Session-based)
-* **Database**: [Inserisci il DB, es. SQLite / PostgreSQL / MongoDB]
+* **Database**: [SQLite]
 
 ## 📸 Screenshots
 > **Note:** *Visual context of the application interface.*
 
-![Dashboard Overview](link-al-tuo-screenshot-1.png)
+![Dashboard Overview](Screenshot_create.png)
 *Figure 1: Main dashboard displaying annual metrics.*
 
-![Login View](link-al-tuo-screenshot-2.png)
+![Login View](Screenshot_view.png)
 *Figure 2: Secure authentication flow.*
 
 ## 💻 Getting Started (Local Setup)
