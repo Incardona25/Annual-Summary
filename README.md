@@ -17,10 +17,10 @@ A full-stack web application designed to track, manage, and visualize annual dat
 ## 📸 Screenshots
 > **Note:** *Visual context of the application interface.*
 
-![Dashboard Overview](Screenshot_create.png)
+![Dashboard Overview](img/Screenshot_create.png)
 *Figure 1: Main dashboard displaying annual metrics.*
 
-![Login View](Screenshot_view.png)
+![Login View](img/Screenshot_view.png)
 *Figure 2: Secure authentication flow.*
 
 ## 💻 Getting Started (Local Setup)
